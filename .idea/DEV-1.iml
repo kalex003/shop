@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="DBE_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <content url="file://$MODULE_DIR$/../erp.sql" />
+    <content url="file://$MODULE_DIR$/../main-dc" />
+    <content url="file://$MODULE_DIR$/../sprutpg" />
+    <content url="file://$MODULE_DIR$/../wbstorenv-db" />
+    <content url="file://$MODULE_DIR$/../wh-skud-db" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
