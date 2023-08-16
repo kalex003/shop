@@ -2,6 +2,8 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/619b3edc-f849-418e-a560-ba322f2f5579/console.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../erp.sql/WBR_ERP/WBR_ERP/Warehouse/Stored Procedures/SHK_PostDiscarded.sql" dialect="AZURE" />
+    <file url="file://$PROJECT_DIR$/../wh-global-seq-db/seq/routines/seqint_getwhs.sql" dialect="PostgreSQL" />
     <file url="file://$USER_HOME$/Downloads/Telegram Desktop/Learn_1 сделанное.sql" dialect="PostgreSQL" />
   </component>
 </project>

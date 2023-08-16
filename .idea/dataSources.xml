@@ -43,5 +43,19 @@
       <jdbc-url>jdbc:postgresql://wh-mulct-test-db01.fd.whs.wb.ru:5432/postgres</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="postgres@global-seq.fd.whs.wb.ru" uuid="205993f0-1611-4531-99ac-fbcf17ae8e64">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://global-seq.fd.whs.wb.ru:5432/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="postgres@general-reserve.fd.whs.wb.ru" uuid="59c67ef6-6a13-4583-8f01-2fbf9c796166">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://general-reserve.fd.whs.wb.ru:5432/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
