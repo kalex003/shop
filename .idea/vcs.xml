@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/../employee-rate-estimate-db" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../erp.sql" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../generalreserv-db" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../lostpost_redistribution_db" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../main-dc" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../sprutpg" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../wbstorenv-db" vcs="Git" />
