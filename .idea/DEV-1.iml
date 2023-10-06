@@ -6,6 +6,8 @@
     <content url="file://$MODULE_DIR$/../generalreserv-db" />
     <content url="file://$MODULE_DIR$/../lostpost_redistribution_db" />
     <content url="file://$MODULE_DIR$/../main-dc" />
+    <content url="file://$MODULE_DIR$/../orders_penalty_db" />
+    <content url="file://$MODULE_DIR$/../outwh-docs" />
     <content url="file://$MODULE_DIR$/../sprutpg" />
     <content url="file://$MODULE_DIR$/../wbstorenv-db" />
     <content url="file://$MODULE_DIR$/../wh-global-seq-db" />

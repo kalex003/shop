@@ -7,6 +7,8 @@
     <mapping directory="$PROJECT_DIR$/../generalreserv-db" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../lostpost_redistribution_db" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../main-dc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../orders_penalty_db" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../outwh-docs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../sprutpg" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../wbstorenv-db" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../wh-global-seq-db" vcs="Git" />
